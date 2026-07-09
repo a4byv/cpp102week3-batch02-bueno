@@ -1,0 +1,7 @@
+START
+Ask for score 1
+Ask for score 2
+Ask for score 3
+Compute Average = (score 1 + score 2 + score 3)/3
+Display Result
+END

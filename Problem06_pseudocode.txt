@@ -1,0 +1,7 @@
+START
+INPUT price daily allowance
+INPUT number of days
+INPUT chore bonus
+PROCESS sum =  daily allowance + number of days +  chore bonus
+Display Result
+END

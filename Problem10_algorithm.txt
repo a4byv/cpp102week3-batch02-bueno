@@ -1,0 +1,4 @@
+START
+Ask for raffle ticket number
+Display Even MOD 2
+Display Odd

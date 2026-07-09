@@ -1,0 +1,7 @@
+START
+Ask for price daily allowance
+Ask for number of days
+Ask for chore bonus
+Compute sum =  daily allowance + number of days +  chore bonus
+Display Result
+END

@@ -1,0 +1,11 @@
+START
+INPUT for raffle ticket number
+
+  PROCESS IF number is divisble by 2 Then
+  
+Display Even
+
+  PROCESS ELSE if not divisble by 2 Then
+
+Display ODD
+END

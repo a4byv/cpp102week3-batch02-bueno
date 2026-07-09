@@ -1,0 +1,7 @@
+START
+INPUT score 1
+INPUT score 2
+INPUT score 3
+PROCESS Average = 20% + 30% + 50%
+Display Result
+END

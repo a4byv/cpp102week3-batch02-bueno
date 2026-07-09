@@ -1,0 +1,6 @@
+START
+Ask for price per notebook
+Ask for quantity
+Compute sum = price per notebook + quantity
+Display Result
+END

@@ -1,0 +1,14 @@
+START
+INPUT account balance
+  PROCESS IF balance if greater than 0 Then
+  
+Display Positive Balance
+
+  PROCESS ELSE amount if less than 0 Then
+
+Display Negative Balance
+
+ PROCESS IF amount if exactlty 0 Then
+ 
+Display Zero Balance
+END

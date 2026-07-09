@@ -1,0 +1,7 @@
+START
+INPUT score 1
+INPUT score 2
+INPUT score 3
+PROCESS Average = (score 1 + score 2 + score 3)/3
+Display Result
+END

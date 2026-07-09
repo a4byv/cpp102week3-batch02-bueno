@@ -1,0 +1,6 @@
+START
+Ask for weekly budget
+Ask for Total expenses
+Compute difference = weekly budget - Total expenses
+Display Result
+END

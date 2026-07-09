@@ -1,0 +1,6 @@
+START
+INPUT Price per Notebook
+INPUT Quantity
+PROCESS sum = Price per Notebook + Quantity
+Display Result
+END

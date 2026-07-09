@@ -1,0 +1,6 @@
+START
+Input weekly budget
+Input Total expenses
+Process difference = weekly budget - Total expenses
+Display Result
+END

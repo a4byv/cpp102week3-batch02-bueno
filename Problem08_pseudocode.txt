@@ -1,0 +1,9 @@
+START
+INPUT total purchase amount
+  PROCESS IF amount is 1000 >= Then
+
+Display Eligble for Discount
+  PROCESS ELSE amount is 1000 < Then
+
+Display Not Eligble fo discount
+END

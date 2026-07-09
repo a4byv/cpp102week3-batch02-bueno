@@ -1,0 +1,8 @@
+START
+Ask for price 
+Ask for quantity 1
+Ask for quantity 2
+Ask for quantity 3
+Compute sum = price + quantity 1 + quantity 2 + quantity 3
+Display Result
+END

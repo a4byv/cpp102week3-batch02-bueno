@@ -1,0 +1,6 @@
+START
+Ask for Base
+Ask for height
+Compute area = Base * height
+Display Result
+END

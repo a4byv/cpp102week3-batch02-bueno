@@ -1,0 +1,5 @@
+START
+Ask for total purchase amount
+Display Eligble for Discount
+Display Not Eligble fo discount
+END

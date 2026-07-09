@@ -1,0 +1,8 @@
+START
+INPUT price 
+INPUT quantity 1
+INPUT quantity 2
+INPUT quantity 3
+PROCESS sum = price + quantity 1 + quantity 2 + quantity 3
+Display Result
+END
