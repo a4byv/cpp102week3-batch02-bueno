@@ -1,5 +1,3 @@
-
-```mermaid
 flowchart TD
 
   A --> ([START])--> B [/INPUT account balance/]
