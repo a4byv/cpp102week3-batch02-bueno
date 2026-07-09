@@ -1,5 +1,6 @@
 ```mermaid
 flowchart TD
+
   A --> ([START])--> B [/INPUT account balance/]
   B -->{PROCESS IF Greater than 0 Then}-->C [/DISPLAY Positive Balance/]
   B --{PROCESS IF Less than 0 Then}--> C[/DISPLAY Negative Balance/]
